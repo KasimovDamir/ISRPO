@@ -1,0 +1,10 @@
+D:\PR 23 1\TicketApp\TicketApp\bin\Debug\TicketApp.exe.config
+D:\PR 23 1\TicketApp\TicketApp\bin\Debug\TicketApp.exe
+D:\PR 23 1\TicketApp\TicketApp\bin\Debug\TicketApp.pdb
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.AssemblyReference.cache
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.Form1.resources
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.Properties.Resources.resources
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.GenerateResource.cache
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.csproj.CoreCompileInputs.cache
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.exe
+D:\PR 23 1\TicketApp\TicketApp\obj\Debug\TicketApp.pdb
