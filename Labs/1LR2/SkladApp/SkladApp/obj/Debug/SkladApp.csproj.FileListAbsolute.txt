@@ -1,0 +1,11 @@
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\bin\Debug\SkladApp.exe.config
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\bin\Debug\SkladApp.exe
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\bin\Debug\SkladApp.pdb
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.Sklad.resources
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.Properties.Resources.resources
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.exe
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.pdb
+C:\Users\User\Documents\ТРПОпроекты\SkladApp\SkladApp\obj\Debug\SkladApp.exe.config
