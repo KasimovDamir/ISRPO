@@ -1,0 +1,11 @@
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\bin\Debug\CeasarCipher.exe.config
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\bin\Debug\CeasarCipher.exe
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\bin\Debug\CeasarCipher.pdb
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.Form1.resources
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.Properties.Resources.resources
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.csproj.GenerateResource.cache
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.exe
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.pdb
+C:\Users\User\Documents\ТРПОпроекты\CeasarCipher\CeasarCipher\obj\Debug\CeasarCipher.exe.config
