@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Проекты\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\User\Documents\Проекты\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\User\Documents\Проекты\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\User\Documents\Проекты\TestApp\TestApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Проекты\TestApp\TestApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.FormFinish.resources
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.FormQuestion.resources
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.FormStart.resources
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.csproj.Up2Date
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\User\Documents\Проекты\TestApp\TestApp\obj\Debug\TestApp.pdb
