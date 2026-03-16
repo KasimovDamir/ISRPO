@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\bin\Debug\BackpackApp.exe.config
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\bin\Debug\BackpackApp.exe
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\bin\Debug\BackpackApp.pdb
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.MainForm.resources
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.Properties.Resources.resources
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.exe
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.pdb
+C:\Users\User\Documents\Проекты\BackpackApp\BackpackApp\obj\Debug\BackpackApp.exe.config
