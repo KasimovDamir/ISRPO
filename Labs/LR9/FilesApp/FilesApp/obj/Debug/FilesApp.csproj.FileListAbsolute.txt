@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\bin\Debug\FilesApp.exe.config
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\bin\Debug\FilesApp.exe
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\bin\Debug\FilesApp.pdb
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.Properties.Resources.resources
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.SymbolsCount.resources
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.exe
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.pdb
+C:\Users\User\Documents\Проекты\FilesApp\FilesApp\obj\Debug\FilesApp.exe.config
