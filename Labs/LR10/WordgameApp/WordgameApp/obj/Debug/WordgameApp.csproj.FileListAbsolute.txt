@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\bin\Debug\WordgameApp.exe.config
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\bin\Debug\WordgameApp.exe
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\bin\Debug\WordgameApp.pdb
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.GameForm.resources
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.Properties.Resources.resources
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.exe
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.pdb
+C:\Users\User\Documents\Проекты\WordgameApp\WordgameApp\obj\Debug\WordgameApp.exe.config
