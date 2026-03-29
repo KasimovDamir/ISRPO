@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClockApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmEditDialog.resources
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmForm.resources
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClockApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClockApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Users\User\Documents\Проекты\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe.config
